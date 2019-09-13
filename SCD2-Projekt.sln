@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SCD2-Projekt", "SCD2-Projekt\SCD2-Projekt.dtproj", "{B8DF052A-33CE-4B0E-9900-AEE80FA13377}"
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SCD2", "..\..\..\Desktop\WSEI STUDIA\Semestr 4\70767DataWarehouse-master\Lesson07 SSIS Basics03\_VSProjects\VSVariablesAndMoreDFTasks\Project02_SCDType2\SCD2.dtproj", "{BDE64617-27EB-4F61-A456-9D5DE309C9D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B8DF052A-33CE-4B0E-9900-AEE80FA13377}.Development|Default.ActiveCfg = Development
-		{B8DF052A-33CE-4B0E-9900-AEE80FA13377}.Development|Default.Build.0 = Development
+		{BDE64617-27EB-4F61-A456-9D5DE309C9D5}.Development|Default.ActiveCfg = Development
+		{BDE64617-27EB-4F61-A456-9D5DE309C9D5}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
